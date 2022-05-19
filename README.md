@@ -6,7 +6,7 @@ This is a database created for a fictional medical practice used to manage patie
 
 ### **Database Features**
 - Stores information on Patients, Appointments, Consultants, Staff, Procedure Pricing, Bills, Payments
-- Database Designed With Pre-Made Views To Present Frequently Needed Information (e.g This Weeks Appointments)
+- Database Designed With Views To Present Frequently Needed Information (e.g This Weeks Appointments)
 
 ### **Running Details**
 - Database must be hosted on a server to view.
