@@ -2,7 +2,7 @@
 
 
 ### **About The Project**
-This is a database created for a fictional medical practice used to manage patient appointment information. The database was designed used relational database principles. For this project I used XAMPP and phpMyAdmin to locally-host the database while building it.
+This is a database created for a fictional medical practice used to manage patient appointment information. The database was designed using relational database principles. For this project I used XAMPP and phpMyAdmin to locally-host the database while building it.
 
 ### **Database Features**
 - Stores information on Patients, Appointments, Consultants, Staff, Procedure Pricing, Bills, Payments
